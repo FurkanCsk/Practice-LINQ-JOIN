@@ -3,17 +3,13 @@ This project is a simple library management system implemented using C# and LINQ
 
 ## Features
 - Authors and Books data stored in lists
-
 - LINQ query to join and display books with their respective authors
 
 ## Technologies Used
 - C#
-
 - .NET
 
 ## How to Run
 - Clone the repository.
-
 - Open the solution in Visual Studio.
-
 - Run the program to see the output of the LINQ join query.
